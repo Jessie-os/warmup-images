@@ -1,0 +1,46 @@
+html {
+    background-color:darkmagenta
+}
+
+.body {
+margin: 0;
+     }
+
+.hero-image {
+width: 100%;
+height: auto;
+    }
+
+.first-image  {
+    width: 300px;
+    height: auto;
+     }
+
+.logo {
+width: 200px;
+height:auto;
+display: block;
+     }
+
+.site-id {
+padding: 20px;
+margin: 0px;
+     }
+
+.min-image {
+width: 100%;
+height: auto;
+min-width: 500px;
+    }
+
+.max-image {
+width: 100%;
+height:auto;
+max-width: 800px;
+     }
+
+.max-width-grid {
+max-width: 800px;
+margin: auto;
+padding: 30px;
+    }
